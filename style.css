@@ -1,0 +1,38 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+#game {
+  height: 350px;
+  width: 250px;
+}
+
+#player {
+  height: 300px;
+  width: 300px;
+  background-color: #72D7E3;
+  padding: 2%;
+}
+
+#computer {
+  height: 300px;
+  width: 300px;
+  background-color: #FFA98D;
+  padding: 2%;
+  margin-left: 3%;
+}
+
+#player1-img {
+  height: 300px;
+  width: 300px;
+}
+
+#player2-img {
+  height: 300px;
+  width: 300px;
+}
